@@ -24,4 +24,4 @@ Se crea una estructura para calcular las ganancias segun el tiempo que el usuari
 
 
 
-test
+
